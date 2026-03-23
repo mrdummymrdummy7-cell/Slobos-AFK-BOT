@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
-    "password": "",
-    "type": "offline"
+    "username": "Goose",
+    "password": "Goose",
+    "type": "online"
   },
   "server": {
     "ip": "GooseSMP-Xfz6.aternos.me",
