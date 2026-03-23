@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "GooseSMP-Xfz6.aternos.me:28672",
+    "port": 28672,
     "version": "1.21.1"
   },
   "position": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "Goose"
     },
     "anti-afk": {
       "enabled": true,
