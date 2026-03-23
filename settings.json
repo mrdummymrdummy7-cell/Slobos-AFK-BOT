@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GooseSMP-Xfz6.aternos.me:28672",
+    "ip": "GooseSMP-Xfz6.aternos.me",
     "port": 28672,
     "version": "1.21.1"
   },
